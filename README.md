@@ -112,9 +112,7 @@ Place your own thermal dataset in training_data and testing_data folders,
 <p align="center"> Made with ❤</p>
 
 [Sai Adarsh](https://github.com/sai-adarsh),
-[Hari Prasath](https://www.linkedin.com/in/hari-prassath-27b3a4172/),
-[Sibi Bose](https://www.linkedin.com/in/sibi-bose-8683b6150/),
-[Surya Vimladithan](https://www.linkedin.com/in/surya-vimladithan-3a43a1179).
+[Rajasekar M](https://github.com/rajasekar1999)
 
 [<img src="https://image.flaticon.com/icons/svg/185/185961.svg" width="35" padding="10">](https://twitter.com/dialstudios)
 [<img src="https://image.flaticon.com/icons/svg/185/185964.svg" width="35" padding="10">](linkedin.com/in/sai-adarsh/)
